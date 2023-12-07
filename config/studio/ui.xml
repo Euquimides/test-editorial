@@ -35,7 +35,7 @@
                 <widget id="craftercms.components.PathNavigatorTree">
                     <configuration>
                         <id>Pages</id>
-                        <label>Pages</label>
+                        <label>Tosty</label>
                         <icon id="@mui/icons-material/DescriptionOutlined"/>
                         <rootPath>/site/website/index.xml</rootPath>
                         <locale>en</locale>
