@@ -18,6 +18,7 @@
     <version>4.1.x.x</version>
     <widget id="craftercms.components.Preview" initialEditModeOn="true" initialHighlightMode="all" xbDetectionTimeoutMs="5000" />
     <widget id="craftercms.components.ToolsPanel">
+    <widget>
         <configuration112>
             <widgets>
                 <widget id="craftercms.components.ToolsPanelEmbeddedAppViewButton">
